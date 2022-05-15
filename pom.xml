@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.amigoscode</groupId>
-	<artifactId>aws-image-upload</artifactId>
+	<artifactId>aws-image-upload-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aws-image-upload</name>
+	<name>aws-image-upload-api</name>
 	<description>Demo project for Spring Boot and ReactJs AWS S3 image uploader</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
